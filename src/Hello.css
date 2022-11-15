@@ -1,0 +1,15 @@
+h1{
+    background: red;
+}
+
+.helo{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.helo p{
+   align-self: center;
+   
+
+}
